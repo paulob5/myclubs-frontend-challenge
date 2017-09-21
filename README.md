@@ -30,6 +30,7 @@ upon clicking on the button you should show the user a confirmation
 - use react js
 - make it responsive
 - make it look nice, feel free to copy style from our website & apps
+- be creative
 
 
 

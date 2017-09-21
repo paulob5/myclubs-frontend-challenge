@@ -15,7 +15,7 @@ npm start
 
 ## what you should create
 
-create a simple screen that displays screen which displays one of our sports activities with a call to action asking the user to "book it now". your app should fetch the data from this endpoint. 
+create a simple screen that displays one of our sports activities with a call to action asking the user to "book it now". your app should fetch the data from this endpoint. 
 
 
 ```

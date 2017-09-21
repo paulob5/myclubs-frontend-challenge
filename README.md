@@ -2,7 +2,7 @@
 
 ## about
 
-this is a small challenge to assess your frontend dev skills. you should invest no more than 2 hours in completing it. the instructions contain all the information you should have, everything else is up to your own judgement. there is now right or wrong solution, only your own approach. feel free to use any library, boilerplate, tool etc ... that you like. don't be afraid to use easy / convenient solutions. we are as much interessted in your reasoning as we are in the result, during the call we would like you to say a few words about your work.
+this is a small challenge to assess your frontend dev skills. you should invest no more than 2 hours in completing it. the instructions contain all the information you should have, everything else is up to your own judgement. there is now right or wrong solution, only your own approach. feel free to use any library, boilerplate, tool etc ... that you like. don't be afraid to use easy / convenient solutions. we are as much interessted in your reasoning as we are in the result, during the call we would like you to say a few words about your work. Feel free to ask questions at any time.
 
 ## deliverable
 
@@ -23,7 +23,7 @@ https://frontend-challenge-190ff.firebaseio.com/activities/coding-activity.json
 
 ```
 
-upon clicking on the button you should show the user a confirmation
+upon clicking on the button you should show the user a confirmation that his booking was successful.
 
 
 ## nice to haves

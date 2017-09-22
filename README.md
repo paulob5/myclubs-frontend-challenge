@@ -1,36 +1,34 @@
-# myclubs frontend challenge
+# myClubs Frontend Challenge
 
-## about
+## About
 
-this is a small challenge to assess your frontend dev skills. you should invest no more than 2 hours in completing it. the instructions contain all the information you should have, everything else is up to your own judgement. there is now right or wrong solution, only your own approach. feel free to use any library, boilerplate, tool etc ... that you like. don't be afraid to use easy / convenient solutions. we are as much interessted in your reasoning as we are in the result, during the call we would like you to say a few words about your work. Feel free to ask questions at any time.
+This is a small challenge to assess your frontend dev skills. You should invest no more than 2 hours in completing it. The instructions contain all the information you need, everything else is up to your own judgement. There is no right or wrong solution, only your personal approach. Feel free to use any library, boilerplate, tool,… that you like. Don’t be afraid to use easy/convenient solutions. We are as much interessted in your reasoning as we are in the result. Feel free to ask questions at any time.
 
-## deliverable
+## Deliverable
 
-fork this repository and submit you result as pull request. one should be able to run it, by cloning your repo and running.
+Fork this repository and submit you result as pull request. One should be able to run it by cloning your repository and running:
 
 ```
 npm install 
 npm start
 ```
 
-## what you should create
+## What You Should Create
 
-create a simple screen that displays one of our sports activities with a call to action asking the user to "book it now". your app should fetch the data from this endpoint. 
-
+Create a simple screen that displays one of our sports activities with a call to action asking the user to book it. Your app should fetch the data from this endpoint:
 
 ```
 https://frontend-challenge-190ff.firebaseio.com/activities/coding-activity.json 
-
 ```
 
-upon clicking on the button you should show the user a confirmation that his booking was successful.
+Upon clicking on the button you should show the user a confirmation that his booking was successful.
 
+## Nice to Haves
 
-## nice to haves
-- use react js
-- make it responsive
-- make it look nice, feel free to copy style from our website & apps
-- be creative
+* use React
+* make it responsive
+* make it look nice, feel free to copy style from our website & apps
+* be creative
 
 
 

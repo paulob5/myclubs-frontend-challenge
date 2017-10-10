@@ -2,7 +2,7 @@
 
 ## About
 
-This is a small challenge to assess your frontend dev skills. You should invest no more than 2 hours in completing it. The instructions contain all the information you need, everything else is up to your own judgement. There is no right or wrong solution, only your personal approach. Feel free to use any library, boilerplate, tool,… that you like. Don’t be afraid to use easy/convenient solutions. We are as much interessted in your reasoning as we are in the result. Feel free to ask questions at any time.
+This is a small challenge to assess your frontend dev skills. You should invest no more than 2 hours in completing it. The instructions contain all the information you need, everything else is up to your own judgement. There is no right or wrong solution, only your personal approach. Feel free to use any library, boilerplate, tool,… that you like. Don’t be afraid to use easy/convenient solutions. We are as much interested in your reasoning as we are in the result. Feel free to ask questions at any time.
 
 ## Deliverable
 

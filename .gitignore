@@ -1,0 +1,10 @@
+node_modules
+dist
+logs
+*.log
+npm-debug.log*
+
+#Custom ignored directories
+
+#Custom ignored files
+.vscode/*
